@@ -7,7 +7,7 @@ namespace laba1
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Hello KNUTE!");
+            Console.WriteLine("Good morning, KNUTE!");
         }
     }
 }
